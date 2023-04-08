@@ -1,2 +1,2 @@
 # Clue 2 for Seth
-the best and newest kitchen appliance, hidden behind
+that weird frog that Henry made
