@@ -2,3 +2,5 @@
 Name of Customer: 
 
 Points Balance: 
+
+Use History:
