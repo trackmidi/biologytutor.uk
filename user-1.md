@@ -1,4 +1,4 @@
 # Seth's Sweets Store
-Name of Customer: Rachael Green
+Name of Customer: 
 
-Points Balance: 0
+Points Balance: 
