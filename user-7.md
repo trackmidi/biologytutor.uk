@@ -1,10 +1,6 @@
 # Seth's Sweets Store
-Name: Sarper
+Name: 
 
-Points Balance: 2
+Points Balance: 
 
 Use History:
-
-2 Vimto Bars 31/10
-
-3 Vimto bars 31/10
