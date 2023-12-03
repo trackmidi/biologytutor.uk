@@ -1,6 +1,6 @@
 # Seth's Sweets Store
-Names:
+Names: paeper
 
-Points Balance:
+Points Balance: 
 
 Use History:
