@@ -1,6 +1,8 @@
 # Seth's Sweets Store
-Names: paeper
+Names: Parper
 
-Points Balance: 
+Points Balance: 2
 
 Use History:
+
+2 Maoams 3/12/23
